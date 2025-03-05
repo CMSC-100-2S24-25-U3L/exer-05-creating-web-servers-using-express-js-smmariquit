@@ -1,1 +1,10 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/WwNNILUu)
+# CMSC 100 Exer 5 - ExpressJS
+Simonee Ezekiel M. Mariquit - CMSC 100 U3L
+S/N: 2023-16061
+
+This program, for the purposes of demonstrating understanding of ExpressJS and internet protocol, does the following:
+- Adds books to a persistent database (text file) using a POST method
+- Retrieves book details using a ET method
+- Implements a .gitignore file to exclude node modules from pushing to GitHub
+
+The Internet is really really great
